@@ -1,1 +1,4 @@
-# assignment-7-simarchhabra2601
+Personal Portfolio Website - Simarjeet
+
+Live Version: http://chhabrasimar.com
+
